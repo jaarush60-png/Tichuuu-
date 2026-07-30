@@ -1,8 +1,8 @@
 const messages = [
-  "You make every single day brighter! ☀️",
-  "Just a quick reminder: you are incredible. ❤️",
+  "I will never leave my tichu puchu cuutu patuu everrrr😤",
+  "Just a quick reminder, I love you more than anythingg and will never leave you❤️",
   "Thank you for being you. 🌸",
-  "My favorite place in the world is right next to you! 🥰"
+  "I live you for who you aree sooo neverrr changee warna bumpitttii"
 ];
 
 function revealMessage() {
